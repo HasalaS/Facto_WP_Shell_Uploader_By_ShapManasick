@@ -1,2 +1,0 @@
-# Wordpress_Shell_Uploader
-Facto_WP_Shell_Uploder_By_ShapManasick
